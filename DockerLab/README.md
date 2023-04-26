@@ -1,5 +1,5 @@
 # Prep Windows for containers
-- Start the AZ-040 lab from LearnOnDemand.net
+- Start the AZ-040 lab from XtremeLabs
 - Login to the server LON-SVR1 as Administrator
 - Run a PowerShell Console "As Administrator"
 - Run all of the following commands in the PowerShell Console
