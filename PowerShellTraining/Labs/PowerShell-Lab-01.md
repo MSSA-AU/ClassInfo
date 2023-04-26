@@ -22,6 +22,8 @@ lab:
 
 ###### _
 
+
+
 # Lab: Configuring Windows PowerShell, and finding and running commands
 
 ## Scenario
@@ -201,12 +203,21 @@ The main tasks for this exercise are:
     
     ```PowerShell
     Block-SmbShareAccess
+    
+    # You could use Block-FileShareAccess, however this will set 
+    # the block permission at the share and at the file level permissions
+    # at the same time. The Block-SmbShareAccess only sets the block at the 
+    # share level permissions.
     ```
     </Strong></details>   
   - What command would you run to clear your computer’s local **BranchCache** cache?
     <details><summary>Click for hint</summary><Strong> 
 
     ```PowerShell
+    Get-Command -Name *cache*
+    
+    # OR
+    
     Get-Command -Module BranchCache
     ```
     </Strong></details> 
@@ -214,6 +225,8 @@ The main tasks for this exercise are:
     
     ```PowerShell
     Clear-BCCache
+    
+    # Notice the BranchCache is denoted by the prefix on the Noun (BC)
     ```
     </Strong></details>   
   - What command would you run to display a list of Windows Firewall rules? What parameter of that command would display only enabled rules?
@@ -238,6 +251,10 @@ The main tasks for this exercise are:
 
     ```PowerShell
     Get-Command *address* 
+    
+    # OR 
+    
+    Get-Command Get*address* 
     ```
     </Strong></details> 
     <details><summary>Click to see the answer</summary><Strong> 
@@ -281,7 +298,11 @@ The main tasks for this exercise are:
     <details><summary>Click for hint</summary><Strong> 
 
     ```PowerShell
-    Get-Help Get-NetIPAddress
+    Get-Help Get-NetIPAddress -ShowWindow
+    
+    # OR 
+    
+    Get-Help Get-NetIPAddress -Full
     ```
     </Strong></details> 
     <details><summary>Click to see the answer</summary><Strong> 
@@ -299,12 +320,21 @@ The main tasks for this exercise are:
     Get-Command -Noun Service
     ```
     </Strong></details> 
-    <details><summary>Click to see the answer</summary><Strong> 
+    <details><summary>Click to see the answer (Part 1)</summary><Strong> 
+    
+    ```PowerShell
+    Get-Help Set-Service -ShowWindow
+    ```
+    </Strong></details>     
+    
+    </Strong></details> 
+    <details><summary>Click to see the answer (Part 2)</summary><Strong> 
     
     ```PowerShell
     Set-Service -Name BITS -StartupType Automatic
     ```
     </Strong></details> 
+    
 5. Test the network connection to **LON-DC1**. Your command should return only a True or False value, without any other output.
     <details><summary>Click for hint</summary><Strong> 
 
@@ -329,12 +359,20 @@ The main tasks for this exercise are:
     Get-Command *Eventlog*
     ```
     </Strong></details> 
-    <details><summary>Click to see the answer</summary><Strong> 
+    <details><summary>Click to see the answer (Part 1)</summary><Strong> 
+    
+    ```PowerShell
+    Get-Help Get-EventLog -ShowWindow
+    ```
+    </Strong></details> 
+    
+    <details><summary>Click to see the answer (Part 2)</summary><Strong> 
     
     ```PowerShell
     Get-EventLog -Logname Security -Newest 10
     ```
     </Strong></details> 
+    
 ### Exercise 3 results
 
 After completing this exercise, you'll have demonstrated your ability to find and run Windows PowerShell commands that perform specific tasks.
@@ -386,4 +424,5 @@ The main task for this exercise is:
 
 After completing this exercise, you'll have demonstrated your ability to locate help content in **About** files.
 
-[Go to next lab](PowerShell-Lab-02.md#lab-performing-local-system-administration-with-powershell)
+[Back to labs](https://github.com/brentd09/AZ040Labs/blob/main/README.md#powershell-labs)
+

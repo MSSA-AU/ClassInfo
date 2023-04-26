@@ -65,7 +65,7 @@ The main tasks for this exercise are:
 ### Task 1: Use string variables
 
 1. On **LON-CL1**, open Windows PowerShell.
-1. Create a variable `$logPath` that contains **C:\logs**\.
+1. Create a variable `$logPath` that contains C:\logs\
     <details><summary>Click for hint</summary><Strong> 
 
     ```PowerShell
@@ -84,6 +84,8 @@ The main tasks for this exercise are:
     
     ```PowerShell
     $logPath | Get-Member
+    # You can also use a method to find the object type
+    # $LogPath.GetType()
     ```
     </Strong></details> 
 
@@ -176,8 +178,12 @@ The main tasks for this exercise are:
     
     ```PowerShell
     $logFile = "" + $today.Year + "-" + $today.Month + "-" + $today.Day + "-" + $today.Hour + "-" + $today.Minute + ".txt"
+    
     # OR 
     # $logFile = [string]$today.Year + "-" + $today.Month + "-" + $today.Day + "-" + $today.Hour + "-" + $today.Minute + ".txt"
+    
+    # OR
+    # $logFile = get-date -Format 'yyyy\-MM\-dd\-hh\-mm\.\t\x\t'
     ```
     </Strong></details> 
 4. Create a variable `$cutOffDay` that contains the date **30** days before today.
@@ -505,4 +511,5 @@ The main task for this exercise is:
     </Strong></details> 
 9. Close the Windows PowerShell prompt.
 
-[Go to next lab](AZ-040-Lab-07.md#_)
+
+[Back to labs](https://github.com/brentd09/AZ040Labs/blob/main/README.md#powershell-labs)

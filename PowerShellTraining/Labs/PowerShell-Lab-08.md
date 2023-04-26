@@ -175,32 +175,6 @@ The main tasks for this exercise are:
     ```
     </Strong></details> 
 
-### Task 3: Observe remoting limitations
-
-1. Establish a one-to-one remoting connection to **LON-CL1** using the computer name **localhost**. This is your local computer, but this new connection creates a second user session for you on the computer.
-    <details><summary>Click to see the answer</summary><Strong> 
-    
-    ```PowerShell
-    Enter-PSSession -ComputerName localhost
-    ```
-    </Strong></details> 
-1. Use Windows PowerShell to start a new instance of Notepad. What happens, and why?
-    <details><summary>Click to see the answer</summary><Strong> 
-    
-    ```PowerShell
-    Notepad.exe
-    ```
-    </Strong></details> 
-1. Close Notepad.exe using Ctrl-C. This may take some time to quit.   
-
-1. Close the connection.
-    <details><summary>Click to see the answer</summary><Strong> 
-    
-    ```PowerShell
-    Exit-PSSession
-    ```
-    </Strong></details> 
-
 ## Exercise 3: Performing one-to-many remoting
 
 In this exercise, you'll run commands against multiple computers. One of those will be the client computer, although you'll be establishing a second sign-in to it for the duration of each command.
@@ -450,7 +424,7 @@ The main tasks for this exercise are:
     Get-NetFirewallRule
     ```
     </Strong></details> 
-1. Use a single command line to list all enabled firewall rules on both **LON-SVR1** and **LON-DC1**.
+1. Using one-many remoting, list all enabled firewall rules on both **LON-SVR1** and **LON-DC1**.
     <details><summary>Click for hint</summary><Strong> 
 
     ```PowerShell
@@ -477,31 +451,31 @@ The main tasks for this exercise are:
     ```
     </Strong></details> 
 
-### Task 3: Create and display an HTML report that displays local disk information from the two computers
+### Task 3: Create an HTML report that shows disk volume information from two computers using the session $Computers created earlier
 
-1. As a test, use **Get-WmiObject** to display a list of local hard drives (the **Win32_LogicalDisk** class, filtered to include only those drives with a drive type of **3**).
+1. As a test, use **Get-Volume** to display a list of local hard drives, make sure you filter the volumes to see only fixed drive types.
     <details><summary>Click to see the answer</summary><Strong> 
     
     ```PowerShell
-    Get-WmiObject -Class Win32_LogicalDisk -Filter "DriveType=3"
+    Get-Volume | Where-Object {$_.DriveType -eq 'Fixed'}
     ```
     </Strong></details> 
-3. Use remoting to run the **Get-WmiObject** command against both **LON-DC1** and **LON-SVR1**. Don't add a **–ComputerName** parameter to the **Get-WmiObject** command. Your HTML report must include each computer’s name, each drive’s letter, and its free space and total size in bytes.
-    <details><summary>Click for hint</summary><Strong> 
+3. Use one-many remoting to run the pipeline you discovered in the previous step on **LON-DC1** and **LON-SVR1** using the session variable $Computers.
+    <details><summary>Click to See the answer</summary><Strong> 
 
     ```PowerShell
-    Invoke-Command -Session $computers -ScriptBlock { Get-WmiObject -Class Win32_LogicalDisk -Filter "DriveType=3" } | Get-Member
+    Invoke-Command -Session $computers -ScriptBlock { Get-Volume | Where-Object {$_.DriveType -eq 'Fixed'} } 
     ```
-    <br>
-    ```PowerShell
-    Invoke-Command -Session $computers -ScriptBlock { Get-WmiObject -Class Win32_LogicalDisk -Filter "DriveType=3" } | Select-Object
-    # Compare the two results to discover which properties you will need for this report
-    ```
-    </Strong></details> 
+    </Strong></details>   
+5. Create the HTML report showing the computer’s name, each drive’s letter, free space and total size in bytes.
+
     <details><summary>Click to see the answer</summary><Strong> 
     
     ```PowerShell
-    Invoke-Command -Session $computers -ScriptBlock { Get-WmiObject -Class Win32_LogicalDisk -Filter "DriveType=3" } | Select-Object PSComputerName,DeviceID,FreeSpace | ConvertTo-Html | Out-File e:\DiskReport.html
+    Invoke-Command -Session $computers -ScriptBlock { Get-Volume | Where-Object {$_.DriveType -eq 'Fixed'} } | 
+      Select-Object PSComputerName,DriveLetter,SizeRemaining,Size | 
+      ConvertTo-Html | 
+      Out-File e:\DiskReport.html
     ```
     </Strong></details> 
 
@@ -509,10 +483,11 @@ The main tasks for this exercise are:
 ### Task 4: Test the HTML report
 
 - Open Internet Explorer and type the following into the address bar
-```PowerShell
-e:\DiskReport.html
-```
+   ```
+   e:\DiskReport.html
+   ```
 
 ## Congratulations you have fininshed the lab
 
-[Go to next lab](AZ-040-Lab-09.md#_)
+
+[Back to labs](https://github.com/brentd09/AZ040Labs/blob/main/README.md#powershell-labs)
