@@ -2,8 +2,8 @@
 
 ### Class Information
 
-[AIICT Study Spot Portal](https://www.studyspot.com.au/my/)<br>
 [Daily Class Schedule](ClassSchedule.md#mssa-sca-course-schdule)<br>
+[AIICT Study Spot Portal](https://www.studyspot.com.au/my/)<br>
 [Course Intro](MSSA-SCA-Intro.md#getting-started-with-your-mssa-sca-course)<br>
 
 ### Azure Projects
