@@ -13,10 +13,8 @@
 
 ### Classroom Resources
 
-[Microsoft Course Manuals (SkillPipe)](https://skillpipe.com)<br>
-[Microsoft Labs (LearnOnDemand)](https://ddls.learnondemand.net/)<br> 
-[Register for SkillPipe Manuals and LearnOnDemand Labs](Course-and-Manuals.md#course-setup)<br>
-
+[Microsoft Course Manuals (Learn)](https://learn.microsoft.com)<br>
+[Microsoft Labs (XtremeLabs)](https://xtremelabs.net/)<br> 
 
 ### Docker Lab
 [Docker Lab](DockerLab#readme)<br>
