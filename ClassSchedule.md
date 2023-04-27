@@ -9,7 +9,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 24May|Wed|1|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|1, 3|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 25May|Thu|1|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|3|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 26May|Fri|1|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-29May|Mon|2|Holiday|(AU) Queens Birthday|###|###|###|###
+29May|Mon|2|Holiday|(USA) Memorial Day|###|###|###|###
 30May|Tue|2|Q&A/20-740|[Installation, Storage and Compute with Windows Server 2016](https://skillpipe.com)|1,2|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 31May|Wed|2|20-740|[Installation, Storage and Compute with Windows Server 2016](https://skillpipe.com)|3,4|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 01Jun|Thu|2|20-740|[Installation, Storage and Compute with Windows Server 2016](https://skillpipe.com)|4,5|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
