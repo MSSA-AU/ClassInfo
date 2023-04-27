@@ -1,5 +1,6 @@
 ## MSSA SCA Course Schdule
-### Students will have questions from their personal study - 1hr Q&A per week addesses this<br>
+### Students will have questions from their personal study - 1hr Q&A per week addesses this
+<br><br>
 
 Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 ---|---|---|---|---|---|---|---|--
