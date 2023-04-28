@@ -27,7 +27,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 19Jun|Mon|5|Holiday|(USA) Juneteenth|###|###|###|###
 20Jun|Tue|5|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|4,5|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 21Jun|Wed|5|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|5,6|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-22Jun|Thu|5|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|2,11|[Labs](https://labs.xtremelabs.io/)|Brent Denny|[Survey]()
+22Jun|Thu|5|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|PS Quiz|[Labs](https://labs.xtremelabs.io/)|Brent Denny|[Survey]()
 23Jun|Fri|5|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 26Jun|Mon|6|Q&A/20-741|[Networking with Windows Server 2016](https://skillpipe.com)|4|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 27Jun|Tue|6|20-741|[Networking with Windows Server 2016](https://skillpipe.com)|5,6|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
@@ -52,7 +52,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 24Jul|Mon|10|Q&A/20-742|[Identity with Windows Server 2016](https://skillpipe.com)|12,13|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|[Survey]()
 25Jul|Tue|10|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|7|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 26Jul|Wed|10|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|8|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-27Jul|Thu|10|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|PS Play|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
+27Jul|Thu|10|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|2,11|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 28Jul|Fri|10|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 31Jul|Mon|11|Q&A/AZ-900|[Azure Fundamentals](https://skillpipe.com)|1,2|[Labs](https://labs.xtremelabs.io/)|Melvin Porter|---
 01Aug|Tue|11|AZ-900|[Azure Fundamentals](https://skillpipe.com)|2,3|[Labs](https://labs.xtremelabs.io/)|Melvin Porter|---
