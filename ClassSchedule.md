@@ -71,7 +71,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 18Aug|Fri|13|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 21Aug|Mon|14|Q&A/AZ-104|[Azure Administration](https://skillpipe.com)|9,10|[Labs](https://labs.xtremelabs.io/)|Melvin Porter|---
 22Aug|Tue|14|AZ-104|[Azure Administration](https://skillpipe.com)|11|[Labs](https://labs.xtremelabs.io/)|Melvin Porter|[Survey]()
-23Aug|Wed|14|MicroSoft InterViews||###|###|###|###
+23Aug|Wed|14|MicroSoft InterViews|###|###|###|###|###
 24Aug|Thu|14|AZ-104|[Azure Challenge](https://github.com/BrentAIICT/MSSA-SCA/blob/main/AzureProjects/AzureProjectLandingPage.md#azure-projects)|---|[Labs](https://portal.azure.com/)|Melvin Porter|---
 25Aug|Fri|14|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 28Aug|Mon|15|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|9,10|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
