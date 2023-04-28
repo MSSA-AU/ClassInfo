@@ -74,19 +74,23 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 23Aug|Wed|14|MicroSoft InterViews||###|###|###|###
 24Aug|Thu|14|AZ-104|[Azure Challenge](https://github.com/BrentAIICT/MSSA-SCA/blob/main/AzureProjects/AzureProjectLandingPage.md#azure-projects)|---|[Labs](https://portal.azure.com/)|Melvin Porter|---
 25Aug|Fri|14|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-28Aug|Mon|15|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|11|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-29Aug|Tue|15|AZ-040|[PowerShell Challenges](https://github.com/BrentAIICT/MSSA-SCA/blob/main/PowerShellTraining/PSADProjectHeading.MD#powershell-projects)|---|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-30Aug|Wed|15|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|1|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-31Aug|Thu|15|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|1,6|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+28Aug|Mon|15|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|9,10|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
+29Aug|Tue|15|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|Powershell Challenges|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
+30Aug|Wed|15|Q&A/AZ-040|[PowerShell Challenges](https://github.com/BrentAIICT/MSSA-SCA/blob/main/PowerShellTraining/PSADProjectHeading.MD#powershell-projects)|Powershell Challenges|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
+31Aug|Thu|15|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|1|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 01Sep|Fri|15|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 04Sep|Mon|16|Holiday|(USA) Labour Day|###|###|###|###
-04Sep|Mon|16|Q&A/AZ-801|[Configuring Windows Server Hybrid Advanced Services](https://skillpipe.com)|6,7|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-05Sep|Tue|16|AZ-801|[Configuring Windows Server Hybrid Advanced Services](https://skillpipe.com)|7|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-06Sep|Wed|16|Review|Re-run labs/Finish challenges|---|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-07Sep|Thu|16|Review|Re-run labs/Finish challenges|---|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+05Sep|Tue|16|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|1,6|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+06Sep|Wed|16|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|6,7|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+07Sep|Thu|16|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|7|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 08Sep|Fri|16|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-11Sep|Mon|17|Q&A/Custom|[Linux Administration Fundamentals]()|---|[Labs]()|David Van Gemert |---
-12Sep|Tue|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|David Van Gemert |---
-13Sep|Wed|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|David Van Gemert |---
-14Sep|Thu|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|David Van Gemert |[Survey]()
-TBA|TBA|TBA|Graduation|---|---|---|---|---
+11Sep|Mon|17|Q&A/Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |---
+12Sep|Tue|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |---
+13Sep|Wed|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |---
+14Sep|Thu|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |[Survey]()
+15Sep|Fri|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|Rerun labs|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+18Sep|Mon|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|Rerun labs|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+19Sep|Tue|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|Rerun labs|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+20Sep|Wed|18|Custom|Custom|Overall revision|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+21Sep|Thu|18|Custom|Custom|Overall revision|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+22Sep|Fri|18|Graduation|---|---|---|---|---
