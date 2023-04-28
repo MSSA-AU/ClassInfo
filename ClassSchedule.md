@@ -17,10 +17,10 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 05Jun|Mon|3|Q&A/Custom|[Introduction to Networking](https://skillpipe.com)|---|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 06Jun|Tue|3|20-740|[Installation, Storage and Compute with Windows Server 2016](https://skillpipe.com)|6,7|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 07Jun|Wed|3|20-740|[Installation, Storage and Compute with Windows Server 2016](https://skillpipe.com)|8,9|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-08Jun|Thu|3|20-740|[Installation, Storage and Compute with Windows Server 2016](https://skillpipe.com)|10,11|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|[Survey]()
+08Jun|Thu|3|20-740|[Installation, Storage and Compute with Windows Server 2016](https://skillpipe.com)|10,11|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 09Jun|Fri|3|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 12Jun|Mon|4|Holiday|(AU) Kings Birthday|###|###|###|###
-13Jun|Mon|4|Q&A/20-740|[Installation, Storage and Compute with Windows Server 2016](https://skillpipe.com)|10,11|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|[Survey]()
+13Jun|Mon|4|Q&A/20-740|[Installation, Storage and Compute with Windows Server 2016](https://skillpipe.com)|11,12|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|[Survey]()
 14Jun|Wed|4|20-741|[Networking with Windows Server 2016](https://skillpipe.com)|1,2|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 15Jun|Thu|4|20-741|[Networking with Windows Server 2016](https://skillpipe.com)|3,4|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 16Jun|Fri|4|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
