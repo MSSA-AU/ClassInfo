@@ -88,7 +88,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 12Sep|Tue|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |---
 13Sep|Wed|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |---
 14Sep|Thu|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |[Survey]()
-15Sep|Fri|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|Rerun labs|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+15Sep|Fri|18|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 18Sep|Mon|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|Rerun labs|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 19Sep|Tue|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|Rerun labs|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 20Sep|Wed|18|Custom|Custom|Overall revision|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
