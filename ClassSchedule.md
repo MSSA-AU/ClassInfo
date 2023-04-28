@@ -34,25 +34,25 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 28Jun|Wed|6|20-741|[Networking with Windows Server 2016](https://skillpipe.com)|7,8|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 29Jun|Thu|6|20-741|[Networking with Windows Server 2016](https://skillpipe.com)|8,9|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 30Jun|Fri|6|20-741|[Networking with Windows Server 2016](https://skillpipe.com)|10,11|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|[Survey]()
-03Jul|Mon|7|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|7|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-04Jul|Tue|7|AZ-040|[PowerShell Scripting Workshop](https://github.com/BrentAIICT/MSSA-SCA/blob/main/PowerShellTraining/PowerShell-Quiz.md#powershell-quiz)|---|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-05Jul|Wed|7|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|8|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-06Jul|Thu|7|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|9,10|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
+03Jul|Mon|7|Q&A/20-742|[Identity with Windows Server 2016](https://skillpipe.com)|1|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+04Jul|Tue|7|Holiday|(USA) Independence Day|###|###|###|###
+05Jul|Wed|7|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|2|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+06Jul|Thu|7|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|3,4|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 07Jul|Fri|7|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-10Jul|Mon|8|Q&A/20-742|[Identity with Windows Server 2016](https://skillpipe.com)|1|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-11Jul|Tue|8|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|2|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-12Jul|Wed|8|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|3,4|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-13Jul|Thu|8|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|5,6|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+10Jul|Mon|8|Q&A/20-742|[Identity with Windows Server 2016](https://skillpipe.com)|5,6|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+11Jul|Tue|8|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|7|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+12Jul|Wed|8|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|8,9|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
+13Jul|Thu|8|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|10,11|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 14Jul|Fri|8|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 17Jul|Mon|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 18Jul|Tue|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 19Jul|Wed|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 20Jul|Thu|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 21Jul|Fri|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-24Jul|Mon|10|Q&A/20-742|[Identity with Windows Server 2016](https://skillpipe.com)|7|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-25Jul|Tue|10|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|8,9|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-26Jul|Wed|10|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|10,11|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
-27Jul|Thu|10|20-742|[Identity with Windows Server 2016](https://skillpipe.com)|12,13|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|[Survey]()
+24Jul|Mon|10|Q&A/20-742|[Identity with Windows Server 2016](https://skillpipe.com)|12,13|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|[Survey]()
+25Jul|Tue|10|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|7|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
+26Jul|Wed|10|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|8|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
+27Jul|Thu|10|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|PS Play|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 28Jul|Fri|10|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 31Jul|Mon|11|Q&A/AZ-900|[Azure Fundamentals](https://skillpipe.com)|1,2|[Labs](https://labs.xtremelabs.io/)|Melvin Porter|---
 01Aug|Tue|11|AZ-900|[Azure Fundamentals](https://skillpipe.com)|2,3|[Labs](https://labs.xtremelabs.io/)|Melvin Porter|---
