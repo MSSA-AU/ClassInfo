@@ -27,7 +27,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 19Jun|Mon|5|Holiday|(USA) Juneteenth|###|###|###|###
 20Jun|Tue|5|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|4,5|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 21Jun|Wed|5|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|5,6|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-22Jun|Thu|5|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|PS Quiz|[Labs](https://labs.xtremelabs.io/)|Brent Denny|[Survey]()
+22Jun|Thu|5|AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|PS Quiz|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 23Jun|Fri|5|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 26Jun|Mon|6|Q&A/20-741|[Networking with Windows Server 2016](https://skillpipe.com)|4|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 27Jun|Tue|6|20-741|[Networking with Windows Server 2016](https://skillpipe.com)|5,6|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
@@ -74,7 +74,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 23Aug|Wed|14|MicroSoft InterViews|###|###|###|###|###
 24Aug|Thu|14|AZ-104|[Azure Challenge](https://github.com/BrentAIICT/MSSA-SCA/blob/main/AzureProjects/AzureProjectLandingPage.md#azure-projects)|---|[Labs](https://portal.azure.com/)|Melvin Porter|---
 25Aug|Fri|14|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-28Aug|Mon|15|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|9,10|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
+28Aug|Mon|15|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://skillpipe.com)|9,10|[Labs](https://labs.xtremelabs.io/)|Brent Denny|[Survey]()
 29Aug|Tue|15|AZ-040|[PowerShell Challenges](https://github.com/BrentAIICT/MSSA-SCA/blob/main/PowerShellTraining/PSADProjectHeading.MD#powershell-projects)|Powershell Challenges|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 30Aug|Wed|15|AZ-040|[PowerShell Challenges](https://github.com/BrentAIICT/MSSA-SCA/blob/main/PowerShellTraining/PSADProjectHeading.MD#powershell-projects)|Powershell Challenges|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
 31Aug|Thu|15|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|1|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
