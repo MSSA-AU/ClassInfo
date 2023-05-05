@@ -50,9 +50,9 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 20Jul|Thu|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 21Jul|Fri|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 24Jul|Mon|10|Q&A/20-742|[Identity with Windows Server 2016](https://skillpipe.com)|12,13|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|[Survey]()
-25Jul|Tue|10|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|7|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-26Jul|Wed|10|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|8|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
-27Jul|Thu|10|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|2,11|[Labs](https://labs.xtremelabs.io/)|Brent Denny|---
+25Jul|Tue|10|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|7|[labs](https://ddls.learnondemand.net)|Brent Denny|---
+26Jul|Wed|10|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|8|[labs](https://ddls.learnondemand.net)|Brent Denny|---
+27Jul|Thu|10|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|2,11|[labs](https://ddls.learnondemand.net)|Brent Denny|---
 28Jul|Fri|10|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 31Jul|Mon|11|Q&A/AZ-900|[Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)|1,2|[labs](https://ddls.learnondemand.net)|Melvin Porter|---
 01Aug|Tue|11|AZ-900|[Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)|2,3|[labs](https://ddls.learnondemand.net)|Melvin Porter|---
