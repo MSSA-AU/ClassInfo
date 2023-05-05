@@ -84,10 +84,10 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 06Sep|Wed|16|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|6,7|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 07Sep|Thu|16|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|7|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 08Sep|Fri|16|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-11Sep|Mon|17|Q&A/Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |---
-12Sep|Tue|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |---
-13Sep|Wed|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |---
-14Sep|Thu|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|Joseph Wentzel |[Survey]()
+11Sep|Mon|17|Q&A/Custom|[Linux Administration Fundamentals]()|---|[Labs](https://labs.xtremelabs.io/)|Joseph Wentzel |---
+12Sep|Tue|17|Custom|[Linux Administration Fundamentals]()|---|[Labs](https://labs.xtremelabs.io/)|Joseph Wentzel |---
+13Sep|Wed|17|Custom|[Linux Administration Fundamentals]()|---|[Labs](https://labs.xtremelabs.io/)|Joseph Wentzel |---
+14Sep|Thu|17|Custom|[Linux Administration Fundamentals]()|---|[Labs](https://labs.xtremelabs.io/)|Joseph Wentzel |[Survey]()
 15Sep|Fri|17|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 18Sep|Mon|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|Rerun labs|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
 19Sep|Tue|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|Rerun labs|[Labs](https://labs.xtremelabs.io/)|Lewis Knight|---
