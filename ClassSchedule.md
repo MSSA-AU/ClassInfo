@@ -14,7 +14,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 31May|Wed|2|20-740|[Installation, Storage and Compute with Windows Server 2016](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|3,4|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
 01Jun|Thu|2|20-740|[Installation, Storage and Compute with Windows Server 2016](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|4,5|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
 02Jun|Fri|2|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-05Jun|Mon|3|Q&A/Custom|[Introduction to Networking](https://github.com/MSSA-AU/ClassInfo/blob/main/NetworkingIntro/Network%20Intro%20MSSA.pdf)|-=-|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
+05Jun|Mon|3|Q&A/Custom|[Introduction to Networking](https://github.com/MSSA-AU/ClassInfo/blob/main/NetworkingIntro/Network%20Intro%20MSSA.pdf)|---|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
 06Jun|Tue|3|20-740|[Installation, Storage and Compute with Windows Server 2016](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|6,7|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
 07Jun|Wed|3|20-740|[Installation, Storage and Compute with Windows Server 2016](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|8,9|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
 08Jun|Thu|3|20-740|[Installation, Storage and Compute with Windows Server 2016](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|10,11|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
