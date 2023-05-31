@@ -70,11 +70,11 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 17Aug|Thu|13|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|8,9|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
 18Aug|Fri|13|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 21Aug|Mon|14|Q&A/AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|9,10|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
-22Aug|Tue|14|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|11|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|[Survey]()
+22Aug|Tue|14|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|11|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
 23Aug|Wed|14|MicroSoft InterViews|###|###|###|###|###
 24Aug|Thu|14|AZ-104|[Azure Challenge](https://github.com/BrentAIICT/MSSA-SCA/blob/main/AzureProjects/AzureProjectLandingPage.md#azure-projects)|---|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|[Survey](https://www.metricsthatmatter.com/url/u.aspx?317020FD4197632299)
 25Aug|Fri|14|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-28Aug|Mon|15|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|9,10|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|[Survey]()
+28Aug|Mon|15|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|9,10|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
 29Aug|Tue|15|AZ-040|[PowerShell Challenges](https://github.com/BrentAIICT/MSSA-SCA/blob/main/PowerShellTraining/PSADProjectHeading.MD#powershell-projects)|Powershell Challenges|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
 30Aug|Wed|15|AZ-040|[PowerShell Challenges](https://github.com/BrentAIICT/MSSA-SCA/blob/main/PowerShellTraining/PSADProjectHeading.MD#powershell-projects)|Powershell Challenges|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|[Survey](https://www.metricsthatmatter.com/url/u.aspx?F8933C2E3197741078)
 31Aug|Thu|15|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://skillpipe.com)|1|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
