@@ -20,7 +20,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 08Jun|Thu|3|20-740|[Installation, Storage and Compute with Windows Server](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|10,11|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
 09Jun|Fri|3|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 12Jun|Mon|4|Holiday|(AU) Kings Birthday|###|###|###|###
-13Jun|Mon|4|Q&A/20-740|[Installation, Storage and Compute with Windows Server](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|11,12|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|[Survey](https://www.metricsthatmatter.com/url/u.aspx?00250EC26197518906)
+13Jun|Tue|4|Q&A/20-740|[Installation, Storage and Compute with Windows Server](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|11,12|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|[Survey](https://www.metricsthatmatter.com/url/u.aspx?00250EC26197518906)
 14Jun|Wed|4|20-741|[Networking with Windows Server](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|1,2|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
 15Jun|Thu|4|20-741|[Networking with Windows Server](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|3,4|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
 16Jun|Fri|4|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
