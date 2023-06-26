@@ -27,7 +27,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 19Jun|Mon|5|Holiday|(USA) Juneteenth|###|###|###|###
 20Jun|Tue|5|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|4,5|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
 21Jun|Wed|5|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|5,6|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
-22Jun|Thu|5|AZ-040|[PowerShell Challenges](https://github.com/BrentAIICT/MSSA-SCA/blob/main/PowerShellTraining/PSADProjectHeading.MD#powershell-projects)|PS Quiz|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
+22Jun|Thu|5|AZ-040|[PowerShell Challenges](PowerShellTraining/PSADProjectHeading.MD#powershell-projects)|PS Quiz|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
 23Jun|Fri|5|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 26Jun|Mon|6|Q&A/20-741|[Networking with Windows Server ](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|4|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
 27Jun|Tue|6|20-741|[Networking with Windows Server](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|5,6|[Labs](https://labs.xtremelabs.io/Account/LogOn?returnUrl=%2fMyAccount)|Lewis Knight|---
