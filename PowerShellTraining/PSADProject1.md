@@ -28,7 +28,7 @@
     ```
     - Run this command to download the CSV file needed for this project
     ```
-    Get-FilesFromRepo -GitHubUserName brentaiict -Repository MSSA-SCA -PathInRepo PowerShellTraining -FilesToRetrieve NewHires.csv -Destination E:\ 
+    Copy-GitHubFile -GitHubUserName MSSA-AU -GitHubRepository ClassInfo -DownloadPath E:\ -FileName "PowerShellTraining/NewHires.csv" 
     ```
 
 <br>
