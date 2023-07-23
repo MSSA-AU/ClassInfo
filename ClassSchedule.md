@@ -49,7 +49,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 19Jul|Wed|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 20Jul|Thu|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 21Jul|Fri|9|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-24Jul|Mon|10|Q&A AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|7|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
+24Jul|Mon|10|Q&A AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|6,7|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
 25Jul|Tue|10|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|7|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
 26Jul|Wed|10|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|8|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
 27Jul|Thu|10|AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|2,11|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
