@@ -43,7 +43,7 @@
 
 - Create a PowerShell function within **PowerShell ISE** or **VSCode**
   - Include Comment Based Help
-  - Use the E:\DisableList.csv to find and diable the users in the list
+  - Use the E:\DisableList.csv to find and disable the users in the list
   - When disabling the users do all of the following:
     - Modify the Users "Info" attribute to include the original DN of the user
       - "CN=Brian Ferry,OU=Sales,DC=Adatum,DC=com was the original DN"  
