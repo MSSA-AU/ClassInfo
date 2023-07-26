@@ -220,7 +220,7 @@
 - Q5.1 Create a function that builds a new PowerShell Object based on the .Net class "WebClient" 
   - Use this new PowerShell object to download a file from the internet. 
   - Make sure the function has a parameter that allows you to enter a URL and set this URL as the default value:
-    - [word list](https://www.mit.edu/~ecprice/wordlist.10000) 
+    - https://www.mit.edu/~ecprice/wordlist.10000 
   - Download the internet file to a local file called e:\words.txt
   - After running your function make sure the local file has a list of words in it
 
