@@ -17,19 +17,16 @@
 
   > Make sure all of these functions get saved in your GitHub Repository
 
-  > When solving these challenges, please make sure you are using Windows PowerShell 5.1
-  > If you are using VSCode to work on these challenges make sure you first test the PowerShell version
-  > By typing:
-  
-    ```PowerShell
-      $PSVersionTable
-    ```
-  
-  > If this shows PowerShell 7.x.x then type the following to start the Windows PowerShell 5.1 code  
-  
-    ```PowerShell
-      $PSVersionTable
-    ```
+```PowerShell
+# Make sure all of the challenges are running in Windows PowerShell 5.1
+# To check this type the next line into the PowerShell console
+$PSVersionTable
+
+# If this command shows the PSVersion to be a later
+# version than 5.1 (for example 7.3.5), type the next commans 
+# to start Windows PowerShell 7
+powershell.exe
+```
 
 
 ## 1 Using pipelines
