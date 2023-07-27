@@ -22,13 +22,13 @@
   > By typing:
   
     ```PowerShell
-    $PSVersionTable
+      $PSVersionTable
     ```
   
   > If this shows PowerShell 7.x.x then type the following to start the Windows PowerShell 5.1 code  
   
     ```PowerShell
-    $PSVersionTable
+      $PSVersionTable
     ```
 
 
