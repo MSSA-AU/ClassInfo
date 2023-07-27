@@ -20,13 +20,13 @@
   > When solving these challenges, please make sure you are using Windows PowerShell 5.1
   > If you are using VSCode to work on these challenges make sure you first test the PowerShell version
   > By typing:
-
     ```PowerShell
     $PSVersionTable
     ```
-
-  > If this shows PowerShell 7.x.x then type powershell.exe to start the Windows PowerShell 5.1 code  
-
+  > If this shows PowerShell 7.x.x then type the following to start the Windows PowerShell 5.1 code  
+    ```PowerShell
+    $PSVersionTable
+    ```
 
 
 ## 1 Using pipelines
