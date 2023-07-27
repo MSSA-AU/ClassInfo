@@ -1,5 +1,16 @@
 # PowerShell Projects
 
+```PowerShell
+# Make sure all of the challenges are running in Windows PowerShell 5.1
+# To check this type the next line into the PowerShell console
+$PSVersionTable
+
+# If this command shows the PSVersion to be a later
+# version than 5.1 (for example 7.3.5), type the next commans 
+# to start Windows PowerShell 7
+powershell.exe
+```
+
 ## What is required
 
 - You need to run these projects within the **"AZ-040T00 Automating Administration with Windows PowerShell "** Lab
