@@ -255,7 +255,7 @@ powershell.exe
     ```
     </Strong></details>   
  
-  - Q3.3 What Properties are available in the Object produced by this cmdlet  
+  - Q3.3 What Methods are available in the Object produced by this cmdlet  
     
     <details><summary>Click for hint</summary><Strong> 
 
