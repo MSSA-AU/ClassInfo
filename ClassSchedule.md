@@ -59,7 +59,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 02Aug|Wed|11|AZ-900|[Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)|3,4|[labs](https://ddls.learnondemand.net/Class/536231)|Melvin Porter|---
 03Aug|Thu|11|AZ-900|[Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)|5,6|[labs](https://ddls.learnondemand.net/Class/536231)|Melvin Porter|[Survey](https://www.metricsthatmatter.com/url/u.aspx?CBD2700B7197632305)
 04Aug|Fri|11|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-07Aug|Mon|12|Q&A/AZ-104|[Azure Administration]([https://skillpipe.com](https://ddls.learnondemand.net/Class/536378))|1|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
+07Aug|Mon|12|Q&A/AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|1|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
 08Aug|Tue|12|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|2,3|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
 09Aug|Wed|12|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|3,4|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
 10Aug|Thu|12|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|4,5|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
