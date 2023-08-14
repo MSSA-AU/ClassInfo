@@ -69,7 +69,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 16Aug|Wed|13|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|7,8|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
 17Aug|Thu|13|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|8,9|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
 18Aug|Fri|13|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-21Aug|Mon|14|Q&A/AZ-104|[Azure Administration/ AI Session ](https://ddls.learnondemand.net/Class/536378)|9,10|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter / Iain Morrison|---
+21Aug|Mon|14|Q&A/AZ-104/ AI Session|[Azure Administration ](https://ddls.learnondemand.net/Class/536378)|9,10|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter-Iain Morrison|---
 22Aug|Tue|14|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|11|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
 23Aug|Wed|14|MicroSoft InterViews|###|###|###|###|###
 24Aug|Thu|14|AZ-104|[Azure Challenge](https://github.com/BrentAIICT/MSSA-SCA/blob/main/AzureProjects/AzureProjectLandingPage.md#azure-projects)|---|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|[Survey](https://www.metricsthatmatter.com/url/u.aspx?317020FD4197632299)
