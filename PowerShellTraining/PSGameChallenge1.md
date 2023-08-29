@@ -40,4 +40,4 @@ If 3  4   5   1  were the chosen master numbers[...](PSGameSolution.md)
 
 ### Player Wins
 
-[Game to main Challenge Page](PSADProjectHeader.MD)
+[Game to main Challenge Page](PSADProjectHeading.MD)
