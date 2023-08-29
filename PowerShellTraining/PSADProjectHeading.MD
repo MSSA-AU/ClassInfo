@@ -40,3 +40,7 @@ powershell.exe
 [Go to Project 2](PSADProject2.md#restore-an-accidently-deleted-ad-user-account-from-the-recycle-bin)<br>
 [Go to Project 3](PSADProject3.md#find-all-direct-and-indirect-groups-an-ad-user-is-a-member-of)<br>
 [Go to Project 4](PSADProject4.md#disable-ad-users)<br>
+
+## Links to the Game Challenges
+[Go to Game Project 1](PSGameChallenge1.md)<br>
+
