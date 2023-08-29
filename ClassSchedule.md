@@ -72,7 +72,7 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 21Aug|Mon|14|Q&A/AZ-104/ AI Session|[Azure Administration ](https://ddls.learnondemand.net/Class/536378)|9,10|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter-Iain Morrison|---
 22Aug|Tue|14|AZ-104|[Azure Administration](https://ddls.learnondemand.net/Class/536378)|11|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|---
 23Aug|Wed|14|MicroSoft InterViews|###|###|###|###|###
-24Aug|Thu|14|AZ-104|[Azure Challenge](https://github.com/BrentAIICT/MSSA-SCA/blob/main/AzureProjects/AzureProjectLandingPage.md#azure-projects)|---|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|[Survey](https://www.metricsthatmatter.com/url/u.aspx?317020FD4197632299)
+24Aug|Thu|14|AZ-104|[Azure Challenge](AzureProjects/AzureProjectLandingPage.md#azure-projects)|---|[labs](https://ddls.learnondemand.net/Class/536378)|Melvin Porter|[Survey](https://www.metricsthatmatter.com/url/u.aspx?317020FD4197632299)
 25Aug|Fri|14|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 28Aug|Mon|15|Q&A/AZ-040|[Automating Administration with Windows PowerShell](https://github.com/DDLSTraining/Engage/blob/master/PowerShell/MappingLearnToLODS.md#mapping-learnmicrosoftcom-modules-to-lods-cloudslicing-labs)|9,10|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
 29Aug|Tue|15|AZ-040|[PowerShell Challenges](PowerShellTraining/PSADProjectHeading.MD#powershell-projects)|Powershell Challenges|[labs](https://ddls.learnondemand.net/Class/536221)|Brent Denny|---
