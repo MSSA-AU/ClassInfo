@@ -36,13 +36,8 @@ If 3  4   5   1  were the chosen master numbers[...](PSGameSolution.md)
 |---|---|---|---|:---:|:---:|
 | 1 | 5 | 2 | 6 | **2** | **0** |
 | 3 | 4 | 1 | 5 | **2** | **2** |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
-|   |   |   |   |   |   |
+| 3 | 4 | 5 | 1 | **0** | **4** |
+
+### Player Wins
+
+[Game to main Challenge Page](PSADProjectHeader.MD)
