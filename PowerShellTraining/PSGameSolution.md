@@ -3,7 +3,7 @@
 ## MasterMind Solution
 
 ```PowerShell
-# MasterMind Game Solution
+# MasterMind Game
 Clear-Host
 # Choose 4 random numbers from 1 through 6
 $HiddenNumbers = 1..6 | Get-Random -Count 4
