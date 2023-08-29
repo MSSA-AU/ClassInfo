@@ -23,7 +23,7 @@
 - The computer shows how many numbers were:
   - correct but in the wrong position
   - correct in the right position
-- The computer must tell the player which numbers are correct, only how many of them are the right numbers in the wrong position or right position
+- The computer must not tell the player which numbers are correct, only how many of them are the right numbers in the wrong position or right position
 - The game ends in one of two ways:
   - The player guesses the correct numbers in the right order, and the player wins
   - The player tries 12 times unsuccessfully to guess the numbers and the player loses
