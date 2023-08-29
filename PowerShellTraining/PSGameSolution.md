@@ -43,4 +43,4 @@ if ($Turns -eq 12 -and $RightPos -ne 4) {"Player loses"}
 else {"Player wins"}
 ```
 
-
+[Go back to Game Challenge 1](PSGameChallenge1.md)
