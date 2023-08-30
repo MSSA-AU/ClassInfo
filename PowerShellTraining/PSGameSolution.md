@@ -51,7 +51,7 @@ else {"Player wins"}
 # This game has 6 columns in which two players drop a token into a column to make four of the same color in a row
 function Show-Game {
   Param($fnGame)
-  #Clear-Host
+  Clear-Host
   $Cols = 0..5
   $Rows = 0..5
   Write-Host '1  2  3  4  5  6'
