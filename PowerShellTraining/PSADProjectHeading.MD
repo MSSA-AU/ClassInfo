@@ -43,4 +43,5 @@ powershell.exe
 
 ## Links to the Game Challenges
 [Go to Game Project 1](PSGameChallenge1.md)<br>
+[Go to Game Project 2](PSGameChallenge2.md)<br>
 
