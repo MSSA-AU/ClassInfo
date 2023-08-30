@@ -17,7 +17,7 @@
   - If other tokens exist in that column the dropped token will fall on top of those other tokens 
 - The game ends in one of two ways:
   - One player gets four of their tokens in a row, column or diagonal before the other
-  - The board is full of tokens with no clear winner, this is a draw
+  - The board is full of tokens with no clear winner, this is a draw[...](PSGameSolution.md)
  
 ### Example
 
