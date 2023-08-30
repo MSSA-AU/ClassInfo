@@ -42,6 +42,8 @@ Write-Host
 if ($Turns -eq 12 -and $RightPos -ne 4) {"Player loses"}
 else {"Player wins"}
 ```
+
+
 # Connect Four Game Solution 
 
 ```PowerShell
@@ -123,6 +125,10 @@ $GameOver = $false
 $PlayerMark = 'X'
 do {
   Show-Game -fnGame $Game
+  if (($Game -as [string[]] -as [string]) -notmatch '-') {
+    $GameOver = $true 
+    break
+  }
   do {
     $Choice = Read-Host -Prompt "Choose a column, Player: $PlayerMark"
     if ($Choice -match '^[1-6]$') {
@@ -144,7 +150,8 @@ do {
   else {$PlayerMark = 'X'}
 } until ($GameOver)
 Show-Game -fnGame $Game
-"Winner is $WinResult"
+if ($WinResult -ne '-') {"Winner is $WinResult"}
+else {"The game is a draw"}
 
 
 ```
