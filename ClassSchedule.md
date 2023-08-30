@@ -84,10 +84,10 @@ Date|Day|Week|Course|Title|Modules|Labs|Instructor|Course Survey
 06Sep|Wed|16|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://ddls.learnondemand.net/Class/536382)|6,7|[Labs](https://ddls.learnondemand.net/Class/536382)|Lewis Knight|---
 07Sep|Thu|16|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://ddls.learnondemand.net/Class/536382)|7|[Labs](https://ddls.learnondemand.net/Class/536382)|Lewis Knight|[Survey](https://www.metricsthatmatter.com/url/u.aspx?A8774F7BF197632288 )
 08Sep|Fri|16|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
-11Sep|Mon|17|Q&A/Custom|[Linux Administration Fundamentals]()|---|[Labs]()|J |---
-12Sep|Tue|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|J |---
-13Sep|Wed|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|J |---
-14Sep|Thu|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|J |[Survey](https://www.metricsthatmatter.com/url/u.aspx?08F8D39B4197518941)
+11Sep|Mon|17|Q&A/Custom|[Linux Administration Fundamentals]()|---|[Labs]()|David Van Germet|---
+12Sep|Tue|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|David Van Germet|---
+13Sep|Wed|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|David Van Germet|---
+14Sep|Thu|17|Custom|[Linux Administration Fundamentals]()|---|[Labs]()|David Van Germet|[Survey](https://www.metricsthatmatter.com/url/u.aspx?08F8D39B4197518941)
 15Sep|Fri|17|MSSA ProDev|MSSA Professional Development|---|---|Adam Wright|---
 18Sep|Mon|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://ddls.learnondemand.net/Class/536382)|Rerun labs|[Labs](https://ddls.learnondemand.net/Class/536382)|Lewis Knight|---
 19Sep|Tue|18|AZ-801|[Administering Windows Server Hybrid Core Infrastructure](https://ddls.learnondemand.net/Class/536382)|Rerun labs|[Labs](https://ddls.learnondemand.net/Class/536382)|Lewis Knight|---
